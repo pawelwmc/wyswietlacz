@@ -1,0 +1,2 @@
+# wyswietlacz
+Zastosowanie Programowania Komponentowego
